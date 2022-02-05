@@ -1,0 +1,4 @@
+.idea/*
+venv/*
+game.log
+*.json
